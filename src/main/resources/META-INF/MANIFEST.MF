@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.17.jar oro-2.0.8.jar core-1.1.2.jar netlib-nativ
+ e_ref-linux-armhf-1.1-natives.jar arpack_combined_all-0.1.jar jsr305-
+ 1.3.9.jar reflectasm-1.07-shaded.jar xmlenc-0.52.jar javax.servlet-ap
+ i-3.0.1.jar spark-unsafe_2.10-1.5.1.jar netlib-native_ref-linux-x86_6
+ 4-1.1-natives.jar scalap-2.10.0.jar avro-mapred-1.7.7-hadoop2.jar com
+ mons-lang-2.4.jar hadoop-annotations-2.2.0.jar curator-client-2.1.0-i
+ ncubating.jar scala-library-2.10.4.jar jmatio-1.0.jar curator-framewo
+ rk-2.4.0.jar minlog-1.2.jar netlib-native_system-linux-i686-1.1-nativ
+ es.jar metrics-jvm-3.1.2.jar commons-compress-1.4.1.jar metrics-graph
+ ite-3.1.2.jar jackson-jaxrs-1.8.3.jar slf4j-log4j12-1.7.10.jar json4s
+ -jackson_2.10-3.2.10.jar jaxb-impl-2.2.7.jar hadoop-yarn-api-2.2.0.ja
+ r hadoop-hdfs-2.2.0.jar management-api-3.0.0-b012.jar jets3t-0.7.1.ja
+ r commons-codec-1.3.jar grizzly-rcm-2.1.2.jar jline-0.9.94.jar parque
+ t-encoding-1.7.0.jar commons-lang3-3.4.jar compress-lzf-1.0.3.jar jer
+ sey-guice-1.9.jar stream-2.7.0.jar commons-httpclient-3.1.jar uncommo
+ ns-maths-1.2.2a.jar akka-slf4j_2.10-2.3.11.jar spark-launcher_2.10-1.
+ 5.1.jar netlib-native_ref-linux-i686-1.1-natives.jar parquet-hadoop-1
+ .7.0.jar zookeeper-3.4.5.jar jcl-over-slf4j-1.7.10.jar grizzly-http-2
+ .1.2.jar jersey-json-1.9.jar ivy-2.4.0.jar netlib-native_system-win-i
+ 686-1.1-natives.jar protobuf-java-2.5.0.jar chill-java-0.5.0.jar jers
+ ey-test-framework-grizzly2-1.9.jar hadoop-client-2.2.0.jar spire_2.10
+ -0.7.4.jar chill_2.10-0.5.0.jar commons-compiler-2.7.8.jar parquet-fo
+ rmat-2.3.0-incubating.jar mtj-1.0.2.jar netlib-native_system-osx-x86_
+ 64-1.1-natives.jar commons-io-2.4.jar objenesis-1.2.jar netlib-native
+ _ref-osx-x86_64-1.1-natives.jar grizzly-http-server-2.1.2.jar hadoop-
+ yarn-client-2.2.0.jar javax.inject-1.jar jul-to-slf4j-1.7.10.jar spar
+ k-network-common_2.10-1.5.1.jar scala-reflect-2.10.4.jar guice-3.0.ja
+ r spark-streaming_2.10-1.5.1.jar akka-actor_2.10-2.3.11.jar jersey-se
+ rver-1.9.jar spark-graphx_2.10-1.5.1.jar tachyon-underfs-local-0.7.1.
+ jar tachyon-client-0.7.1.jar gmbal-api-only-3.0.0-b023.jar config-1.2
+ .1.jar breeze-macros_2.10-0.11.2.jar metrics-json-3.1.2.jar jackson-c
+ ore-2.4.4.jar avro-ipc-1.7.7-tests.jar jersey-client-1.9.jar jtransfo
+ rms-2.4.0.jar metrics-core-3.1.2.jar curator-recipes-2.4.0.jar jackso
+ n-databind-2.4.4.jar hadoop-mapreduce-client-app-2.2.0.jar grizzly-ht
+ tp-servlet-2.1.2.jar avro-ipc-1.7.7.jar avro-1.7.7.jar commons-beanut
+ ils-core-1.8.0.jar jackson-core-asl-1.9.13.jar RoaringBitmap-0.4.5.ja
+ r jetty-util-6.1.26.jar hadoop-yarn-server-common-2.2.0.jar commons-b
+ eanutils-1.7.0.jar akka-remote_2.10-2.3.11.jar commons-net-2.2.jar ja
+ xb-api-2.2.7.jar aopalliance-1.0.jar guava-14.0.1.jar jettison-1.1.ja
+ r jackson-mapper-asl-1.9.13.jar lz4-1.3.0.jar jniloader-1.1.jar spark
+ -catalyst_2.10-1.5.1.jar paranamer-2.6.jar py4j-0.8.2.1.jar hadoop-ya
+ rn-common-2.2.0.jar opencsv-2.3.jar netty-all-4.0.29.Final.jar slf4j-
+ api-1.7.10.jar netlib-native_system-win-x86_64-1.1-natives.jar json4s
+ -ast_2.10-3.2.10.jar commons-math-2.1.jar mesos-0.21.1-shaded-protobu
+ f.jar pyrolite-4.4.jar spark-mllib_2.10-1.5.1.jar jackson-module-scal
+ a_2.10-2.4.4.jar netlib-native_system-linux-x86_64-1.1-natives.jar ne
+ tlib-native_system-linux-armhf-1.1-natives.jar pmml-agent-1.1.15.jar 
+ commons-collections-3.2.1.jar jackson-annotations-2.4.0.jar spark-net
+ work-shuffle_2.10-1.5.1.jar asm-3.1.jar scala-compiler-2.10.0.jar jan
+ ino-2.7.8.jar hadoop-mapreduce-client-core-2.2.0.jar unused-1.0.0.jar
+  stax-api-1.0.1.jar xz-1.0.jar hadoop-mapreduce-client-jobclient-2.2.
+ 0.jar jackson-xc-1.8.3.jar jersey-grizzly2-1.9.jar javax.servlet-3.1.
+ jar grizzly-framework-2.1.2.jar json4s-core_2.10-3.2.10.jar spark-sql
+ _2.10-1.5.1.jar parquet-common-1.7.0.jar parquet-column-1.7.0.jar pmm
+ l-schema-1.1.15.jar breeze_2.10-0.11.2.jar netlib-native_ref-win-x86_
+ 64-1.1-natives.jar hadoop-mapreduce-client-shuffle-2.2.0.jar quasiquo
+ tes_2.10-2.0.0-M8.jar spire-macros_2.10-0.7.4.jar native_system-java-
+ 1.1.jar javax.servlet-3.0.0.v201112011016.jar native_ref-java-1.1.jar
+  jersey-test-framework-core-1.9.jar tachyon-underfs-hdfs-0.7.1.jar ha
+ doop-auth-2.2.0.jar jersey-core-1.9.jar commons-configuration-1.6.jar
+  hadoop-common-2.2.0.jar pmml-model-1.1.15.jar commons-math3-3.4.1.ja
+ r snappy-java-1.1.1.7.jar commons-digester-1.8.jar netlib-native_ref-
+ win-i686-1.1-natives.jar parquet-jackson-1.7.0.jar commons-cli-1.2.ja
+ r netty-3.8.0.Final.jar spark-core_2.10-1.5.1.jar kryo-2.21.jar hadoo
+ p-mapreduce-client-common-2.2.0.jar parquet-generator-1.7.0.jar jaxb-
+ core-2.2.7.jar
+Main-Class: org.bnpstat.experiments.MC2ExperimentNIPS
+
