@@ -34,15 +34,16 @@ Each dataset includes **three** data files: content, context and meta data. In d
 + mc2.contextPath=context_nips.txt	% path to context data file
 + mc2.outFolderPath=out		% path to output folder
 
-## System 
 ### Install Apache Spark on the local machine
 +	Installation: Download Spark 1.5.1 from http://spark.apache.org/downloads.html (spark-1.5.1-bin-hadoop2.6.tgz)  unzip to folder spark-1.5.1-bin-hadoop2.6
 +	Set PATH to the folder spark-1.5.1-bin-hadoop2.6
+
 ### Running
 +	Open command line ( terminal)
 +	Change to code folder
-+	Run: spark-submit  --master local[8] BNPStat.jar config.properties
++	Run: *spark-submit  --master local[8] BNPStat.jar config.properties*
 +	Output will be store in mc2.outFolderPath
+
 ### Output (in matlab file format)
 The variables stored in each matlab file after running each mini-batch
 + pp: the content atoms
