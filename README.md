@@ -35,6 +35,7 @@ Each dataset includes **three** data files: content, context and meta data. In d
 + mc2.outFolderPath=out		% path to output folder
 
 ### Install Apache Spark on the local machine
++ Java 7
 +	Installation: Download Spark 1.5.1 from http://spark.apache.org/downloads.html (spark-1.5.1-bin-hadoop2.6.tgz)  unzip to folder spark-1.5.1-bin-hadoop2.6
 +	Set PATH to the folder spark-1.5.1-bin-hadoop2.6
 
