@@ -40,7 +40,7 @@ Each dataset includes **three** data files: content, context and meta data. In d
 +	Set PATH to the folder spark-1.5.1-bin-hadoop2.6
 ### Running
 +	Open command line ( terminal)
-+	Change to SparkTest folder
++	Change to code folder
 +	Run: spark-submit  --master local[8] BNPStat.jar config.properties
 +	Output will be store in mc2.outFolderPath
 ### Output (in matlab file format)
